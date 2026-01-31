@@ -3,6 +3,18 @@
 
 ---
 
+## Team: Hacktronauts
+
+**Team Members:**
+- Aarushi Gullia (Team Lead)
+- Aarushi Jhawar
+- Nikita Yadav
+- Maanikya Jaisingh
+
+AWS Bharat Hackathon 2026
+
+---
+
 ## Why Saarthi?
 
 Many elderly and illiterate people cannot go alone to a doctor, bank, or government office.
