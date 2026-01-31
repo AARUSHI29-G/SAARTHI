@@ -1,0 +1,8 @@
+{
+  "name": "SAARTHI",
+  "description": "A safe, voice-first AI proxy app for elderly and low-literacy users in India, providing guidance without taking decisions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
